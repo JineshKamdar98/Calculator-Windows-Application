@@ -1,2 +1,2 @@
 # Calculator-Windows-Application
-Windows application in C# .NEt
+Windows application in C# .NET
